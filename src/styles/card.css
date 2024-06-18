@@ -1,0 +1,10 @@
+
+
+.tag-discount {
+    margin: 4px;
+    padding: 4px;
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(239, 241, 120);
+    font-size: 12px;
+}
